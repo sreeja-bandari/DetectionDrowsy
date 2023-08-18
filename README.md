@@ -1,1 +1,1 @@
-## Please Switch to MASTER Branch ↓
+## Please Switch to MASTER Branch
